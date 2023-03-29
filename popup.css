@@ -1,0 +1,19 @@
+body {
+  width: 250px;
+}
+
+textarea,
+button {
+  width: 100%;
+  box-sizing: border-box;
+  resize: vertical;
+  margin-top: 4px;
+}
+
+button {
+  padding: 4px
+}
+
+#combine-button {
+  padding: 16px;
+}
